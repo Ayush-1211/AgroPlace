@@ -9,7 +9,8 @@
   - User Profiles 
   - Product Listing and Management 
   - Market Insights and Analysis 
-  - Recommendation Engine 
+  - Recommendation Engine
+  - Chatbox
   - Online Payments 
   - Delivery Tracking 
 
